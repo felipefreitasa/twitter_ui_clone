@@ -1,0 +1,36 @@
+.material-icons.md-24{
+   font-size: 20px;
+   transition: .1s ease-in-out;
+}
+
+.material-icons.icon1 {
+   padding: 8px;
+   border-radius: 50%;
+}
+
+.material-icons.icon1:hover{
+   color: var(--twitter);
+   background: var(--twitter-dark-hover);
+}
+
+.material-icons.icon2 {
+   padding: 8px;
+   border-radius: 50%;
+}
+
+.material-icons.icon2:hover{
+   color: var(--retweet);
+   background: #091a11;
+}
+
+.material-icons.icon3 {
+   padding: 8px;
+   border-radius: 50%;
+}
+
+.material-icons.icon3:hover{
+   color: var(--like);
+   background: #1e0b11
+   ;
+}
+

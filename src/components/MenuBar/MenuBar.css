@@ -1,0 +1,13 @@
+.material-icons.icon {
+   color: var(--twitter);
+}
+
+.material-icons.md-30 {
+   font-size: 25px;
+}
+
+.twitter-icon {
+   margin-bottom: 15px;
+   padding-left: 10px;
+}
+
