@@ -1,12 +1,11 @@
-<h1> Clone da interface do Twitter </h1>
+![Promina (5)](https://user-images.githubusercontent.com/77179768/137824125-f195cb28-45fc-4cc6-8169-db01fa71f01a.png)
+## 💻 Sobre o projeto
+Clone da interface do Twitter, 100% responsivo!
 
-<h3> Projeto feito com a biblioteca ReactJS e a estilização realizada com Styled-Components </h3>
+## 🛠 Tecnologias
 
-<ul>
-  <li><strong>Fontes:</strong> Google Fonts </li>
-    <li><strong>Ícones:</strong> Material Icons </li>
+As seguintes ferramentas foram usadas na construção do projeto:
 
-</ul>
-
-
-https://user-images.githubusercontent.com/77179768/122984831-d436e800-d373-11eb-8841-d13a2f2d9bce.mp4
+- ReactJS
+- Styled Components
+- Google Fonts https://fonts.google.com/
